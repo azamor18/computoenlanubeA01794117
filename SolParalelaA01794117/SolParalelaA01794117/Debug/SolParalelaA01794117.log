@@ -1,0 +1,5 @@
+﻿  SolParalelaA01794117.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\azamor18\onedrive - azureford\control plan\maestria\inteligencia aplicada\cursos\computo en las nubes\solparalelaa01794117\solparalelaa01794117\solparalelaa01794117.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\azamor18\onedrive - azureford\control plan\maestria\inteligencia aplicada\cursos\computo en las nubes\solparalelaa01794117\solparalelaa01794117\solparalelaa01794117.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SolParalelaA01794117.vcxproj -> C:\Users\AZAMOR18\OneDrive - azureford\Control Plan\Maestria\Inteligencia Aplicada\cursos\Computo en las nubes\SolParalelaA01794117\Debug\SolParalelaA01794117.exe
